@@ -29,7 +29,7 @@ body{
 .search-bar{
     border-radius: 30px;
     border-style: none;
-    min-width: 250px;
+    min-width: 200px;
     min-height: 40px;
     padding: 0.5em 1em;
 }
